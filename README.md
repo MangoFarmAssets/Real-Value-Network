@@ -9,7 +9,7 @@ What is Real Value Network?
 ----------------
 
 Real Value Network is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. The Real Value Network platform also lets anyone create assets (tokens) on the Real Value Network network. 
+anyone, anywhere in the world. The Real Value Network platform also lets anyone create assets (tokens) on the Real Value Network. 
 Assets can be used for NFTs, STOs, Gift Cards, and fractional ownership of anything of value.
 Real Value Network uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
